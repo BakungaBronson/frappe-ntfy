@@ -57,8 +57,11 @@ This app is designed to send notifications through ```ntfy.sh```, a versatile se
 
 
 ### Example Usage:
+<img width="653" alt="image" src="https://github.com/BakungaBronson/frappe-ntfy/assets/51344005/fcfd95ef-4ed6-4250-ad4a-fbbd53fa9976">
+
 
 ### Result:
+<img width="1002" alt="image" src="https://github.com/BakungaBronson/frappe-ntfy/assets/51344005/954245c7-3f49-4e0d-b772-528f7d7c5322">
 
 
 To fully understand the capabilities and limitations of the Ntfy function parameters, especially for actions, delay, and formatting options like Markdown, it's advisable to consult the official ntfy.sh documentation available at [docs.ntfy.sh](doc.ntfy.sh) documentation. This resource provides detailed explanations and examples on how to structure JSON payloads for various notification features, ensuring that users can leverage the full potential of the ntfy.sh service within their Frappe applications.
